@@ -1,0 +1,22 @@
+﻿Pradiniai kelioniu duomenys
+-----------------------------------------------------------------------------------
+   Departure City  |  Departure Time  |  Arrival City  |  Arrival Time  |  WeekDay 
+-----------------------------------------------------------------------------------
+Kaunas          1200            Vilnius         1315            3    
+Elektrėnai      1100            Klaipėda        1700            6    
+Šiauliai        1600            Vilnius         1730            3    
+Babtai          1500            Plungė          1800            1    
+Klaipėda        900             Šiauliai        1100            2    
+Kaunas          800             Klaipėda        920             3    
+Marijampolė     800             Vilnius         930             3    
+-----------------------------------------------------------------------------------
+Pradiniai kainu duomenys
+--------------------------------------
+   Arrival City  |  Price For A Trip  
+--------------------------------------
+Vilnius                   5.55
+Klaipėda                  9.99
+Plungė                    7.74
+Šiauliai                  8.01
+Kaunas                    6.20
+--------------------------------------

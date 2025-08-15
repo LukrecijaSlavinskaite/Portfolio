@@ -1,0 +1,27 @@
+﻿.button {
+    background-color: #c18a8e;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+body {
+    background-color: #95c3e3;
+    font-family: Arial;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+table tr td {
+    padding-block: 10px;
+    padding-inline: 15px;
+}
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
