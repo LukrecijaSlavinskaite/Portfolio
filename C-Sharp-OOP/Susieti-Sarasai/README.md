@@ -35,5 +35,5 @@ tranzitinių autobusų.
 # Papildomai
 
 ![Klasių diagrama](Images/ClassDiagram.png)
-![Grafinės naudotojo sąsajos schema](Images/UserInterfacePT1.png)  
-![Grafinės naudotojo sąsajos schema](Images/UserInterfacePT2.png)  
+![Grafinės naudotojo sąsajos schema](Images/UserInterfaceUI1.png)  
+![Grafinės naudotojo sąsajos schema](Images/UserInterfaceUI2.png)  
