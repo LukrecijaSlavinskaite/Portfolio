@@ -1,0 +1,12 @@
+# Visual Studio failai
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+
+# Windows laikini failai
+Thumbs.db
+.DS_Store

@@ -1,0 +1,21 @@
+Kryžiažodis:
+
+I R A M A  1. INTEGRALAS
+N G M I S  2. PROGRAMAVIMAS
+T O A V E  3. DEGTINE
+E R S D N 
+G P A E I 
+R A L G T 
+
+
+Rezultatas:
+
+1 2 2 2 2  1. INTEGRALAS
+1 2 2 2 2  2. PROGRAMAVIMAS
+1 2 2 2 3  3. DEGTINE
+1 2 1 3 3 
+1 2 1 3 3 
+1 1 1 3 3 
+
+6 11 9 15 16 Kontrolinės sumos teisingumui patikrinti
+
