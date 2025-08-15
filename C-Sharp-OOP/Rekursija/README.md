@@ -27,5 +27,5 @@ buvo. Paskutinėje eilutėje matysite stulpelių sumas.
 
 # Papildomai
 
-![Klasių diagrama](images/ClassDiagramRecursion.png)
-![Grafinės naudotojo sąsajos schema](images/UserInterfaceDiagram.png)  
+![Klasių diagrama](Images/ClassDiagramRecursion.png)
+![Grafinės naudotojo sąsajos schema](Images/UserInterfaceDiagram.png)  
