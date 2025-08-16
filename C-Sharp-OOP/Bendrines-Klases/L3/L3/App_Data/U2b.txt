@@ -1,0 +1,5 @@
+﻿Vilnius; 5.55
+Klaipėda; 9.99
+Plungė; 7.74
+Šiauliai; 8.01
+Kaunas; 6.2

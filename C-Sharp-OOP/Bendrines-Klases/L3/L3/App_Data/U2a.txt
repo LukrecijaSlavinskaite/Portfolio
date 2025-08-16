@@ -1,0 +1,8 @@
+﻿Kaunas
+Kaunas; 12:00; Vilnius; 13:15; 3
+Elektrėnai; 11:00; Klaipėda; 17:00; 6
+Šiauliai; 16:00; Vilnius; 17:30; 3
+Babtai; 15:00; Plungė; 18:00; 1
+Klaipėda; 9:00; Šiauliai; 11:00; 2
+Kaunas; 8:00; Klaipėda; 9:20; 3
+Marijampolė; 8:00; Vilnius; 9:30; 3
