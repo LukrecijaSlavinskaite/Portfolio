@@ -1,0 +1,23 @@
+﻿Vilnius
+Smėlio g. 20
+GreitisVilnius@gmail.com
+C,AAA111,BMW,F30,2015-03,2024-09-09,dyzelis,15,200000
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C,AAA222,BMW,F10,2014-10,2023-12-09,benzinas,11,100000
+C,AAA333,BMW,G30,2
+T,JKL987,Scania,R490,2021-01,2023-05-07,dyzelis,15,28
+T,MNO321,MAN,TGS,2020-03,2023-04-28,dyzelis,13,22
+T,PQR654,Volvo,FH16,2019-08,2023-04-30,dyzelis,14,26
+M,STU987,Renault,Master,2018-11,2023-05-01,dyzelis,9,21
+M,VWX321,Peugeot,Partner,2020-05,2023-04-18,dyzelis,8,18
+M,YZA654,Mercedes,Vito,2021-03,2023-05-10,dyzelis,7,20

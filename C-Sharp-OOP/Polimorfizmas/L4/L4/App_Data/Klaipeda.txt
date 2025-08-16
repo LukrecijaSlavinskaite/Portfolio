@@ -1,0 +1,12 @@
+﻿Klaipėda
+Namo g. 50
+GreitisKlaipėda@gmail.com
+C,XYZ123,Volvo,XC90,2019-06,2023-04-20,benzinas,9,130000
+C,LMN456,Opel,Astra,2021-01,2023-05-05,benzinas,7,95000
+C,PQR987,Skoda,Octavia,2018-09,2023-03-30,dyzelis,6,110000
+T,UVW123,MAN,TGX,2022-02,2023-04-15,dyzelis,14,25
+T,RST456,Volvo,FH,2020-08,2023-05-02,dyzelis,12,30
+T,ABC789,DAF,CF,2019-04,2023-03-28,dyzelis,13,27
+M,DEF123,Ford,Transit,2017-12,2023-04-18,dyzelis,8,17
+M,HIJ456,Mercedes,Vito,2020-11,2023-05-12,dyzelis,7,19
+M,KLM789,Peugeot,Boxer,2019-03,2023-04-22,dyzelis,6,16

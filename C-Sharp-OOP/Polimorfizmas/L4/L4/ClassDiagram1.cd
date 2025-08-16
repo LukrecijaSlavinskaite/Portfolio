@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="L4.MyClasses.Car">
+    <Position X="1.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABAAAgAAQEgEAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L4.MyClasses.Corporate">
+    <Position X="2" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAMQEBAAAQAAAAIAAICAAAAAAAIAAA=</HashCode>
+      <FileName>MyClasses\Corporate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L4.MyClasses.InOutUtils">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAABAAAAAAAAEAAgAAAQAAAAAEAAAAAEAAA=</HashCode>
+      <FileName>MyClasses\InOutUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L4.MyClasses.Microbus">
+    <Position X="3.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAgAAQEgkAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses\Microbus.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="L4.MyClasses.TaskUtils">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAFAgAAAAAAAAAAAMAAAgJAABAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses\TaskUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L4.MyClasses.Transport">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABBAAgAAQEgEAAAAAAAAAAAoAAAwgAAAgAAgA=</HashCode>
+      <FileName>MyClasses\Transport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="L4.MyClasses.Truck">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAgAAQEgEAAAAACAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyClasses\Truck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L4.WebForm1">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEADABBAAAAAAAAEgIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>WebForm1.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,87 @@
+Kaunas     Sodo g. 30 GreitisKaunas@gmail.com   
+Type      |Plate     |Manufacturer   |Model     |Year of manufacture |Technical Inspection Date|Fuel      |Fuel Consumption  |Is Technical Inspection Expired 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Car       |ABC123    |Volkswagen     |Golf      |2018-03             |2023-03-01               |benzinas  |6.00              |+                               |150000         |
+Car       |DEF456    |Audi           |A4        |2020-05             |2023-06-15               |benzinas  |7.00              |+                               |120000         |
+Car       |GHI789    |BMW            |X5        |2017-11             |2023-04-25               |dyzelis   |8.00              |+                               |180000         |
+Truck     |JKL123    |MAN            |TGS       |2019-07             |2024-05-10               |dyzelis   |12.00             |+                               |18             |
+Truck     |MNO456    |MAN            |Actros    |2021-02             |2025-03-15               |dyzelis   |13.00             |                                |20             |
+Microbus  |STU123    |Mercedes       |Sprinter  |2019-08             |2025-04-10               |dyzelis   |8.00              |                                |18             |
+Microbus  |VWX456    |Ford           |Transit   |2020-10             |2023-05-01               |dyzelis   |9.00              |+                               |20             |
+Microbus  |YZA789    |Volkswagen     |Transport |2018-03             |2025-02-15               |dyzelis   |7.00              |+                               |15             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Klaipëda   Namo g. 50 GreitisKlaipëda@gmail.com 
+Type      |Plate     |Manufacturer   |Model     |Year of manufacture |Technical Inspection Date|Fuel      |Fuel Consumption  |Is Technical Inspection Expired 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Car       |XYZ123    |Volvo          |XC90      |2019-06             |2023-04-20               |benzinas  |9.00              |+                               |130000         |
+Car       |LMN456    |Opel           |Astra     |2021-01             |2023-05-05               |benzinas  |7.00              |+                               |95000          |
+Car       |PQR987    |Skoda          |Octavia   |2018-09             |2023-03-30               |dyzelis   |6.00              |+                               |110000         |
+Truck     |UVW123    |MAN            |TGX       |2022-02             |2023-04-15               |dyzelis   |14.00             |+                               |25             |
+Truck     |RST456    |Volvo          |FH        |2020-08             |2023-05-02               |dyzelis   |12.00             |+                               |30             |
+Truck     |ABC789    |DAF            |CF        |2019-04             |2023-03-28               |dyzelis   |13.00             |+                               |27             |
+Microbus  |DEF123    |Ford           |Transit   |2017-12             |2023-04-18               |dyzelis   |8.00              |+                               |17             |
+Microbus  |HIJ456    |Mercedes       |Vito      |2020-11             |2023-05-12               |dyzelis   |7.00              |+                               |19             |
+Microbus  |KLM789    |Peugeot        |Boxer     |2019-03             |2023-04-22               |dyzelis   |6.00              |+                               |16             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vilnius    Smëlio g. 20 GreitisVilnius@gmail.com  
+Type      |Plate     |Manufacturer   |Model     |Year of manufacture |Technical Inspection Date|Fuel      |Fuel Consumption  |Is Technical Inspection Expired 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Car       |AAA111    |BMW            |F30       |2015-03             |2024-09-09               |dyzelis   |15.00             |                                |200000         |
+Car       |AAA222    |BMW            |F10       |2014-10             |2023-12-09               |benzinas  |11.00             |                                |100000         |
+Truck     |JKL987    |Scania         |R490      |2021-01             |2023-05-07               |dyzelis   |15.00             |+                               |28             |
+Truck     |MNO321    |MAN            |TGS       |2020-03             |2023-04-28               |dyzelis   |13.00             |+                               |22             |
+Truck     |PQR654    |Volvo          |FH16      |2019-08             |2023-04-30               |dyzelis   |14.00             |+                               |26             |
+Microbus  |STU987    |Renault        |Master    |2018-11             |2023-05-01               |dyzelis   |9.00              |+                               |21             |
+Microbus  |VWX321    |Peugeot        |Partner   |2020-05             |2023-04-18               |dyzelis   |8.00              |+                               |18             |
+Microbus  |YZA654    |Mercedes       |Vito      |2021-03             |2023-05-10               |dyzelis   |7.00              |+                               |20             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Geriausias automobilis
+Type      |Manufacturer|Model  |Plate |Age       
+------------------------------------------
+Car       |Opel        |Astra  |LMN456|4         
+------------------------------------------
+
+Geriausias krovininis automobilis
+Type      |Manufacturer|Model  |Plate |Age       
+------------------------------------------
+Truck     |Volvo       |FH     |RST456|5         
+------------------------------------------
+
+Geriausias autobusas
+Type      |Manufacturer|Model  |Plate |Age       
+------------------------------------------
+Microbus  |Renault     |Master |STU987|7         
+------------------------------------------
+
+Filialas, su seniausiais mikroautobusais:
+City      |Address   |Email                    |
+------------------------------------------------
+Klaipëda  |Namo g. 50|GreitisKlaipëda@gmail.com|
+------------------------------------------------
+
+Kaunas     Sodo g. 30 GreitisKaunas@gmail.com   
+Type      |Plate     |Manufacturer   |Model     |Year of manufacture |Technical Inspection Date|Fuel      |Fuel Consumption  |Is Technical Inspection Expired 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Truck     |MNO456    |MAN            |Actros    |2021-02             |2025-03-15               |dyzelis   |13.00             |                                |20             |
+Truck     |JKL123    |MAN            |TGS       |2019-07             |2024-05-10               |dyzelis   |12.00             |+                               |18             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Klaipëda   Namo g. 50 GreitisKlaipëda@gmail.com 
+Type      |Plate     |Manufacturer   |Model     |Year of manufacture |Technical Inspection Date|Fuel      |Fuel Consumption  |Is Technical Inspection Expired 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Truck     |ABC789    |DAF            |CF        |2019-04             |2023-03-28               |dyzelis   |13.00             |+                               |27             |
+Truck     |UVW123    |MAN            |TGX       |2022-02             |2023-04-15               |dyzelis   |14.00             |+                               |25             |
+Truck     |RST456    |Volvo          |FH        |2020-08             |2023-05-02               |dyzelis   |12.00             |+                               |30             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Vilnius    Smëlio g. 20 GreitisVilnius@gmail.com  
+Type      |Plate     |Manufacturer   |Model     |Year of manufacture |Technical Inspection Date|Fuel      |Fuel Consumption  |Is Technical Inspection Expired 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Truck     |MNO321    |MAN            |TGS       |2020-03             |2023-04-28               |dyzelis   |13.00             |+                               |22             |
+Truck     |JKL987    |Scania         |R490      |2021-01             |2023-05-07               |dyzelis   |15.00             |+                               |28             |
+Truck     |PQR654    |Volvo          |FH16      |2019-08             |2023-04-30               |dyzelis   |14.00             |+                               |26             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
